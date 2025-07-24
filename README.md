@@ -51,3 +51,25 @@ All related documents are included in the `Build` folder and contain the followi
 
 - **Bug Reports**  
   A bug report template and examples → `Bug ReportS.pdf`
+  ---
+  ## 🎥 Demo Video
+
+Watch the Selenium automation solution in action here:  
+🔗 [Demo Video on Google Drive](https://drive.google.com/file/d/1cfytA7C5LZ65zbwg-K0GLzbj2eTTJ2mL/view?usp=sharing)
+
+## ✅ Steps of the Solution
+
+1️⃣ Login with valid credentials  
+2️⃣ Click on **Login**  
+3️⃣ Add a product to the cart 🛒  
+4️⃣ Check the cart contents 🧾  
+5️⃣ Remove the product from the cart ❌  
+6️⃣ Go back to the main page 🔙  
+7️⃣ Add a product to the cart again ➕  
+8️⃣ Proceed to **Checkout** 🧾  
+9️⃣ Fill the checkout form with:
+   - First name
+   - Last name
+   - Zip code 📮  
+🔟 Order is placed successfully 🎉
+
