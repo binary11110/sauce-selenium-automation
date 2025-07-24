@@ -30,7 +30,7 @@ It includes login, cart actions, form filling, and final order submission – al
    cd sauce-selenium-automation
 
 ---
-## Assumptions
+## 🔍Assumptions
 
 ### In Checkout Form:
 - First name field boundaries: 1 to 50 characters.
@@ -39,7 +39,7 @@ It includes login, cart actions, form filling, and final order submission – al
 ### User Interface:
 - Login button should be disabled when fields are empty.
 
-## Documentation
+## 📂Documentation
 
 All related documents are included in the `Build` folder and contain the following:
 
