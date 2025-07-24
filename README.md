@@ -50,7 +50,7 @@ All related documents are included in the `Build` folder and contain the followi
   Well-structured test cases → `sause demo website Test Cases.pdf` / `sause demo website Test Cases.xlsx`
 
 - **Bug Reports**  
-  A bug report template and examples → `Bug ReportS.pdf`
+  Bug report → `Bug ReportS.pdf`
 
 ---  
 ## 🎥 Demo Video
