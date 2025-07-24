@@ -71,6 +71,6 @@ Watch the Selenium automation solution in action here:
 9️⃣ Fill the checkout form with:
    - First name
    - Last name
-   - Zip code 📮  
+   - Zip code 📮
 🔟 Order is placed successfully 🎉
 
